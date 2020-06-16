@@ -1,0 +1,11 @@
+ErrorDocument 404 /404page.html
+
+RewriteEngine On
+
+
+Redirect http://ultraengineeringbd.com/ http://ultraengineeringbd.com/
+Redirect http://www.ultraengineeringbd.com/ http://www.ultraengineeringbd.com/
+Redirect https://ultraengineeringbd.com/ https://ultraengineeringbd.com/
+Redirect https://www.ultraengineeringbd.com/ https://www.ultraengineeringbd.com/
+
+
